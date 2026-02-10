@@ -2,12 +2,16 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>image link</title>
+    <title>yudai-tech image link</title>
   </head>
   <body>
 
     <a href="https://iplogger.com/2qj5D4">
-      <img src="https://via.placeholder.com/300" alt="画像" />
+      <img
+        src="https://github.com/yudaitensaiunti123/redirect-test/raw/main/IMG_9650.PNG"
+        alt="yudai-tech image"
+        style="max-width:100%; height:auto;"
+      >
     </a>
 
   </body>
